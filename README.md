@@ -1,9 +1,9 @@
 # Student Records Management System | Web-based Project
 
-![Student Records Management](https://![images](https://github.com/user-attachments/assets/73c774d6-5063-43cb-8e4d-c245983d672a)
+![Student Records Management](https://ctsv.vimaru.edu.vn/sites/ctsv.vimaru.edu.vn/files/default_images/ctsv_copy_0.png)
 )
 
-[StudentRecordsSystem](https://https://github.com/VanHau2708/DoAn1) - A web-based system for managing student records at the University of Economics and Technical Industries.
+[StudentRecordsSystem](https://github.com/VanHau2708/DoAn1) - A web-based system for managing student records at the University of Economics and Technical Industries.
 
 ## Features:
 - Manage student personal details, academic records, and enrollment history.
